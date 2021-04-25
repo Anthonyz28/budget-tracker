@@ -12,7 +12,7 @@
     THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
 
 ## ScreenShot
-    [(!screenshot!)]
+    ![screenshot](public/images/screenshot.png)
 
 ## Technologys
     JavaScript
